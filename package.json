@@ -1,0 +1,9 @@
+{
+  "name": "align-lite",
+  "version": "0.1.0",
+  "description": "pi 极简对齐包：四步 + 5 条可行性清单。不装插件、不建目录、不写状态文件、不强制产出中间文档（一个需求最多 1 份交付说明）",
+  "keywords": ["pi-package", "alignment", "lite"],
+  "pi": {
+    "skills": ["./skills"]
+  }
+}
